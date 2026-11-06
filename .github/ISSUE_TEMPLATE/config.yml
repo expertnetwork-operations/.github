@@ -1,1 +1,8 @@
 blank_issues_enabled: true
+contact_links:
+  - name: Report a security vulnerability
+    url: https://trust.moraph.com/vulnerability-reporting
+    about: Please do not open a public issue for vulnerabilities. Follow the Moraph vulnerability reporting policy or email security@moraph.com.
+  - name: Moraph website
+    url: https://www.moraph.com
+    about: Company information and general enquiries (https://www.moraph.com/contact).
