@@ -1,0 +1,26 @@
+name: Task
+description: A specific, well-understood piece of work (chore, refactor, ops, docs)
+title: "[Task] "
+type: Task
+body:
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Why does this need doing? Link related issues, docs or decisions.
+    validations:
+      required: true
+  - type: textarea
+    id: todo
+    attributes:
+      label: To do
+      value: |
+        - [ ] 
+        - [ ] 
+    validations:
+      required: true
+  - type: textarea
+    id: done
+    attributes:
+      label: Definition of done
+      description: What must be true when this is closed (README updated, deployed, tested ...)?
