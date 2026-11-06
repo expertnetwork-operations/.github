@@ -4,7 +4,7 @@ Moraph builds and runs secure, audit-ready technology for financial services, he
 
 - Website: [www.moraph.com](https://www.moraph.com)
 - Console: [expert.moraph.com](https://expert.moraph.com)
-- Portfolio project: TODO(confirm): link the "Moraph (Expert Networks)" portfolio project once it exists
+- Project board: [Moraph · Expert Networks](https://github.com/orgs/moraph-com/projects/6) · Portfolio: [Portfolio · Moraph](https://github.com/orgs/moraph-com/projects/7)
 
 ## What we build
 
@@ -12,7 +12,7 @@ Moraph builds and runs secure, audit-ready technology for financial services, he
 |---|---|---|---|
 | Expert Networks | Triage and pipeline Worker (invite capture, triage, answers, billing, console, MCP) | [expertnetworks-triage](https://github.com/expertnetwork-operations/expertnetworks-triage) | [expert.moraph.com](https://expert.moraph.com) |
 | Expert Networks | Booked-call prep Worker (Expert Intelligence Brief) | [expertnetworks-bookedcallprep](https://github.com/expertnetwork-operations/expertnetworks-bookedcallprep) | Cloudflare Worker |
-| Expert Assist | Native iPhone, iPad, Mac and Apple Watch app for the Worker | [expert-assist](https://github.com/expertnetwork-operations/expert-assist) | TODO(confirm): TestFlight / App Store |
+| Expert Assist | Native iPhone, iPad, Mac and Apple Watch app for the Worker | [expert-assist](https://github.com/expertnetwork-operations/expert-assist) | Internal TestFlight only; not on the App Store |
 | Expert Networks | Screener answers (the pitch), in a sibling organization | [expertnetwork-sales](https://github.com/expertnetwork-sales/expertnetwork-sales) | — |
 
 The product repositories are private; links work for organization members.
@@ -27,7 +27,7 @@ The product repositories are private; links work for organization members.
 
 ## Contact
 
-- Security: see the [vulnerability reporting policy](https://trust.moraph.com/vulnerability-reporting) or email security@moraph.com. Please do not open public issues for vulnerabilities.
+- Security: see the [vulnerability reporting policy](https://trust.moraph.com/vulnerability-reporting) or email security@moraph.com. Please do not open public issues for vulnerabilities. Our [security policy](https://github.com/expertnetwork-operations/.github/blob/main/SECURITY.md) has the details.
 - General enquiries: [www.moraph.com/contact](https://www.moraph.com/contact)
 
 Proprietary — © Moraph LLC. All rights reserved.
