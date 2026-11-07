@@ -4,7 +4,6 @@ Moraph builds and runs secure, audit-ready technology for financial services, he
 
 - Website: [www.moraph.com](https://www.moraph.com)
 - Console: [expert.moraph.com](https://expert.moraph.com)
-- Project board: [Moraph · Expert Networks](https://github.com/orgs/moraph-com/projects/6) · Portfolio: [Portfolio · Moraph](https://github.com/orgs/moraph-com/projects/7)
 
 ## What we build
 
